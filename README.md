@@ -11,23 +11,25 @@
 
 </div>
 
-<table align="center" width="100%" style="table-layout: fixed;">
-<tr>
-<td align="center" valign="top" width="25%">
+<!-- MOBİL UYUM İÇİN FLEXBOX DESTEKLİ TABLO -->
+<table align="center" width="100%" style="display: flex; flex-wrap: wrap; justify-content: center; border: none; background: transparent;">
+<tr style="display: flex; flex-wrap: wrap; width: 100%; justify-content: center;">
 
+<!-- HAKKIMDA -->
+<td align="center" valign="top" style="display: block; flex: 1 1 200px; min-width: 200px; max-width: 100%; padding: 10px; border: none;">
 <details>
-<summary><strong>Hakkımda</strong></summary>
+<summary style="cursor: pointer;"><strong>Hakkımda</strong></summary>
 <br>
 <div align="left">
-Türk Dili ve Edebiyatı geçmişimi dijital araçlarla birleştirerek içerik üretimi, marka geliştirme ve no-code çözümler üzerine çalışıyorum. Dijital pazarlama, yapay zeka destekli otomasyon ve deneysel marka projeleri ilgi alanlarım arasında.
+Türk Dili ve Edebiyatı geçmişimi dijital araçlarla birleştirerek içerik üretimi, marka geliştirme ve no-code solutions üzerine çalışıyorum. Dijital pazarlama, yapay zeka destekli otomasyon ve deneysel marka projeleri ilgi alanlarım arasında.
 </div>
 </details>
-
 </td>
-<td align="center" valign="top" width="25%">
 
+<!-- PROJELER -->
+<td align="center" valign="top" style="display: block; flex: 1 1 200px; min-width: 200px; max-width: 100%; padding: 10px; border: none;">
 <details>
-<summary><strong>Projeler</strong></summary>
+<summary style="cursor: pointer;"><strong>Projeler</strong></summary>
 <br>
 <div align="left">
 
@@ -67,12 +69,12 @@ Görüntü işleme ile atıksu arıtma maliyetlerini %30 azaltan sürdürülebil
 
 </div>
 </details>
-
 </td>
-<td align="center" valign="top" width="25%">
 
+<!-- REPO'LAR -->
+<td align="center" valign="top" style="display: block; flex: 1 1 200px; min-width: 200px; max-width: 100%; padding: 10px; border: none;">
 <details>
-<summary><strong>Repo'lar</strong></summary>
+<summary style="cursor: pointer;"><strong>Repo'lar</strong></summary>
 <br>
 <div align="left">
 
@@ -85,12 +87,12 @@ Görüntü işleme ile atıksu arıtma maliyetlerini %30 azaltan sürdürülebil
 
 </div>
 </details>
-
 </td>
-<td align="center" valign="top" width="25%">
 
+<!-- SERTİFİKALAR -->
+<td align="center" valign="top" style="display: block; flex: 1 1 200px; min-width: 200px; max-width: 100%; padding: 10px; border: none;">
 <details>
-<summary><strong>Sertifikalar</strong></summary>
+<summary style="cursor: pointer;"><strong>Sertifikalar</strong></summary>
 <br>
 <div align="left">
 
@@ -194,8 +196,8 @@ Görüntü işleme ile atıksu arıtma maliyetlerini %30 azaltan sürdürülebil
 
 </div>
 </details>
-
 </td>
+
 </tr>
 </table>
 
