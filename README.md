@@ -11,22 +11,32 @@
 
 </div>
 
-<table align="center">
+<div align="center">
+
+<!-- 1. TABLO: HAKKIMDA -->
+<table width="100%" style="margin-bottom: 20px;">
 <tr>
-<td align="center" valign="top">
-
+<td>
 <details>
-<summary><strong>Hakkımda</strong></summary>
-
+<summary><strong>🙋‍♂️ Hakkımda</strong></summary>
+<br>
+<div align="left">
 Türk Dili ve Edebiyatı geçmişimi dijital araçlarla birleştirerek içerik üretimi, marka geliştirme ve no-code çözümler üzerine çalışıyorum. Dijital pazarlama, yapay zeka destekli otomasyon ve deneysel marka projeleri ilgi alanlarım arasında.
-
+</div>
+<br>
 </details>
-
 </td>
-<td align="center" valign="top">
+</tr>
+</table>
 
+<!-- 2. TABLO: PROJELER -->
+<table width="100%" style="margin-bottom: 20px;">
+<tr>
+<td>
 <details>
-<summary><strong>Projeler</strong></summary>
+<summary><strong>🚀 Projeler</strong></summary>
+<br>
+<div align="left">
 
 ### The Bezirgân
 [Pinterest'te görüntüle →](https://tr.pinterest.com/thebezirgan/)
@@ -62,124 +72,149 @@ Görüntü işleme ile atıksu arıtma maliyetlerini %30 azaltan sürdürülebil
 
 `Proje Yönetimi` `Ekip Çalışması` `Tasarım` `NC/LC`
 
-<hr>
-
+</div>
+<br>
 </details>
-
 </td>
-<td align="center" valign="top">
+</tr>
+</table>
 
+<!-- 3. TABLO: REPO'LAR -->
+<table width="100%" style="margin-bottom: 20px;">
+<tr>
+<td>
 <details>
-<summary><strong>Repo'lar</strong></summary>
+<summary><strong>📦 Repo'lar</strong></summary>
+<br>
+<div align="left">
 
-### Çalakalem
-[GitHub'da görüntüle →](https://github.com/ufukdemiir/Calakalem)
-
+### [Çalakalem](https://github.com/ufukdemiir/Calakalem)
 *"Burası; yazı kabiliyetimi geliştirmek ve özgürce karalayabilmek için oynadığım dijital bir kum havuzu, sözcüklerin fütursuzca arz-ı endam ettiği bir eskiz defteri."*
 
 `Yazarlık` `Yaratıcı Yazarlık` `Kişisel Gelişim`
 
-</details>
-
-</td>
-<td align="center" valign="top">
-
-<details>
-<summary><strong>Sertifikalar</strong></summary>
-
-<div align="left">
-<details>
-<summary>Dijital Pazarlama & İçerik</summary>
-
-- Fundamentals of Digital Marketing — Google Digital Academy (Haz 2026)
-- Advanced Content Marketing with Brian Dean — Semrush (Eki 2025)
-- Content Marketing Principles for Business — Semrush (Eki 2025)
-- The Ultimate Guide to Launching a Profitable Small Business — Semrush (Eki 2025)
-- Google Dijital Pazarlama Temelleri — BTK Akademi (Eki 2025)
-</details>
-
-<details>
-<summary>Yapay Zeka & Programlama</summary>
-
-- Yapay Zeka Temelleri (AI Essentials) — Google (Nis 2026)
-- İstem Oluşturma Temelleri (Prompting Essentials) — Google (May 2026)
-- Bias Detection and Mitigation in AI Systems — Sololearn (Oca 2026)
-- Agentic Workflows — Sololearn (Ara 2025)
-- Vibe Coding — Sololearn (Ara 2025)
-- Tech for Everyone — Sololearn (Eki 2025)
-- Coding Foundations — Sololearn (Eki 2025)
-- No Code/Low Code — Yapay Zeka ve Teknoloji Akademisi (Şub 2026)
-- Python ile Temel Yazılım — Yapay Zeka ve Teknoloji Akademisi (Şub 2026)
-- Yapay Zeka Etiği — BTK Akademi (Ağu 2025)
-- Yapay Zekaya Giriş — BTK Akademi (Haz 2024)
-- Çocuklar İçin Yapay Zeka — BTK Akademi (Tem 2024)
-- Bilgi Teknolojilerine Giriş — BTK Akademi (Mar 2021)
-</details>
-
-<details>
-<summary>Proje & Risk Yönetimi</summary>
-
-- Proje Yönetimi (Project Management) — Google (May 2026)
-- Proje Yönetimi — BTK Akademi (Ağu 2025)
-- Proje Yönetim Temelleri — BTK Akademi (Ağu 2025)
-- Proje ve Risk Yönetimi — BTK Akademi (Ağu 2025)
-- Ekip Kurma ve Yönetme — BTK Akademi (Ağu 2025)
-</details>
-
-<details>
-<summary>Veri Analizi & Excel</summary>
-
-- Excel'de Dashboard ve İleri Fonksiyonlar — BTK Akademi (Eyl 2025)
-- Excel Pivot Tablolarla Veri Analizi — BTK Akademi (Eyl 2025)
-- Microsoft Excel Temelleri — BTK Akademi (Eyl 2025)
-- Veri Bilimine Giriş — BTK Akademi (Eyl 2025)
-- Veri Bilimi için Temel İstatistik — BTK Akademi (Ağu 2025)
-</details>
-
-<details>
-<summary>Girişimcilik & İş Dünyası</summary>
-
-- Girişimciler için İnsan Kaynakları — Yapay Zeka ve Teknoloji Akademisi (Şub 2026)
-- Girişimciler için Hukuk — Yapay Zeka ve Teknoloji Akademisi (Şub 2026)
-- Girişimciler için Finans — Yapay Zeka ve Teknoloji Akademisi (Şub 2026)
-- Temel Girişimcilik — Yapay Zeka ve Teknoloji Akademisi (Şub 2026)
-- Girişimcilik Temelleri — BTK Akademi (Şub 2025)
-- Girişimcilik Eğitimi (Geleneksel ve İleri Girişimcilik) — KOSGEB (Eki 2025)
-- Tasarımların Korunması — BTK Akademi (Şub 2025)
-- Finansal Okuryazarlık Sertifikası — Sermaye Piyasası Lisanslama Sicil ve Eğitim Kuruluşu A.Ş. (Eki 2025)
-</details>
-
-<details>
-<summary>İletişim & Kişisel Gelişim</summary>
-
-- Topluluk Önünde Konuşma ve Etkili Sunum Teknikleri — BTK Akademi (Şub 2025)
-- Mülakat Teknikleri — BTK Akademi (Şub 2025)
-- LinkedIn'de Etkili Profil Oluşturma — BTK Akademi (Tem 2024)
-- Kariyeri Tehdit Eden Yaklaşımlar — BTK Akademi (Tem 2024)
-- Kariyerde Hedef Belirleme — BTK Akademi (Tem 2024)
-- İletişim ve Network Yönetimi — BTK Akademi (Tem 2024)
-- İkna Becerileri — BTK Akademi
-- Etkili İletişim Stratejileri — BTK Akademi (Tem 2024)
-</details>
-
-<details>
-<summary>Tasarım</summary>
-
-- İlgi Çekici İçerikler Oluşturun — Canva (Mar 2026)
-- Canva'nın Görsel Çalışma Seti ile Tanışın — Canva (Mar 2026)
-- Öğretmenlere Yönelik Temel Bilgiler — Canva (Eki 2025)
-- Adobe Photoshop CC 2023 — BTK Akademi (Nis 2023)
-</details>
-
-<details>
-<summary>Diğer</summary>
-
-- Bilgisayar İşletmenliği — T.C. Millî Eğitim Bakanlığı (Haz 2024)
-- Pedagojik Formasyon — Düzce Üniversitesi (Haz 2019)
-</details>
 </div>
-
+<br>
 </details>
+</td>
+</tr>
+</table>
+
+<!-- 4. TABLO: SERTİFİKALAR -->
+<table width="100%" style="margin-bottom: 20px;">
+<tr>
+<td>
+<details>
+<summary><strong>📜 Sertifikalar</strong></summary>
+<br>
+<div align="left">
+
+<details>
+<summary>🔍 Dijital Pazarlama & İçerik</summary>
+<ul>
+  <li>Fundamentals of Digital Marketing — Google Digital Academy (Haz 2026)</li>
+  <li>Advanced Content Marketing with Brian Dean — Semrush (Eki 2025)</li>
+  <li>Content Marketing Principles for Business — Semrush (Eki 2025)</li>
+  <li>The Ultimate Guide to Launching a Profitable Small Business — Semrush (Eki 2025)</li>
+  <li>Google Dijital Pazarlama Temelleri — BTK Akademi (Eki 2025)</li>
+</ul>
+</details>
+
+<details>
+<summary>🤖 Yapay Zeka & Programlama</summary>
+<ul>
+  <li>Yapay Zeka Temelleri (AI Essentials) — Google (Nis 2026)</li>
+  <li>İstem Oluşturma Temelleri (Prompting Essentials) — Google (May 2026)</li>
+  <li>Bias Detection and Mitigation in AI Systems — Sololearn (Oca 2026)</li>
+  <li>Agentic Workflows — Sololearn (Ara 2025)</li>
+  <li>Vibe Coding — Sololearn (Ara 2025)</li>
+  <li>Tech for Everyone — Sololearn (Eki 2025)</li>
+  <li>Coding Foundations — Sololearn (Eki 2025)</li>
+  <li>No Code/Low Code — Yapay Zeka ve Teknoloji Akademisi (Şub 2026)</li>
+  <li>Python ile Temel Yazılım — Yapay Zeka ve Teknoloji Akademisi (Şub 2026)</li>
+  <li>Yapay Zeka Etiği — BTK Akademi (Ağu 2025)</li>
+  <li>Yapay Zekaya Giriş — BTK Akademi (Haz 2024)</li>
+  <li>Çocuklar İçin Yapay Zeka — BTK Akademi (Tem 2024)</li>
+  <li>Bilgi Teknolojilerine Giriş — BTK Akademi (Mar 2021)</li>
+</ul>
+</details>
+
+<details>
+<summary>📊 Proje & Risk Yönetimi</summary>
+<ul>
+  <li>Proje Yönetimi (Project Management) — Google (May 2026)</li>
+  <li>Proje Yönetimi — BTK Akademi (Ağu 2025)</li>
+  <li>Proje Yönetim Temelleri — BTK Akademi (Ağu 2025)</li>
+  <li>Proje ve Risk Yönetimi — BTK Akademi (Ağu 2025)</li>
+  <li>Ekip Kurma ve Yönetme — BTK Akademi (Ağu 2025)</li>
+</ul>
+</details>
+
+<details>
+<summary>📈 Veri Analizi & Excel</summary>
+<ul>
+  <li>Excel'de Dashboard ve İleri Fonksiyonlar — BTK Akademi (Eyl 2025)</li>
+  <li>Excel Pivot Tablolarla Veri Analizi — BTK Akademi (Eyl 2025)</li>
+  <li>Microsoft Excel Temelleri — BTK Akademi (Eyl 2025)</li>
+  <li>Veri Bilimine Giriş — BTK Akademi (Eyl 2025)</li>
+  <li>Veri Bilimi için Temel İstatistik — BTK Akademi (Ağu 2025)</li>
+</ul>
+</details>
+
+<details>
+<summary>💼 Girişimcilik & İş Dünyası</summary>
+<ul>
+  <li>Girişimciler için İnsan Kaynakları — Yapay Zeka ve Teknoloji Akademisi (Şub 2026)</li>
+  <li>Girişimciler için Hukuk — Yapay Zeka ve Teknoloji Akademisi (Şub 2026)</li>
+  <li>Girişimciler için Finans — Yapay Zeka ve Teknoloji Akademisi (Şub 2026)</li>
+  <li>Temel Girişimcilik — Yapay Zeka ve Teknoloji Akademisi (Şub 2026)</li>
+  <li>Girişimcilik Temelleri — BTK Akademi (Şub 2025)</li>
+  <li>Girişimcilik Eğitimi (Geleneksel ve İleri Girişimcilik) — KOSGEB (Eki 2025)</li>
+  <li>Tasarımların Korunması — BTK Akademi (Şub 2025)</li>
+  <li>Finansal Okuryazarlık Sertifikası — Sermaye Piyasası Lisanslama Sicil ve Eğitim Kuruluşu A.Ş. (Eki 2025)</li>
+</ul>
+</details>
+
+<details>
+<summary>🗣️ İletişim & Kişisel Gelişim</summary>
+<ul>
+  <li>Topluluk Önünde Konuşma ve Etkili Sunum Teknikleri — BTK Akademi (Şub 2025)</li>
+  <li>Mülakat Teknikleri — BTK Akademi (Şub 2025)</li>
+  <li>LinkedIn'de Etkili Profil Oluşturma — BTK Akademi (Tem 2024)</li>
+  <li>Kariyeri Tehdit Eden Yaklaşımlar — BTK Akademi (Tem 2024)</li>
+  <li>Kariyerde Hedef Belirleme — BTK Akademi (Tem 2024)</li>
+  <li>İletişim ve Network Yönetimi — BTK Akademi (Tem 2024)</li>
+  <li>İkna Becerileri — BTK Akademi</li>
+  <li>Etkili İletişim Stratejileri — BTK Akademi (Tem 2024)</li>
+</ul>
+</details>
+
+<details>
+<summary>🎨 Tasarım</summary>
+<ul>
+  <li>İlgi Çekici İçerikler Oluşturun — Canva (Mar 2026)</li>
+  <li>Canva'nın Görsel Çalışma Seti ile Tanışın — Canva (Mar 2026)</li>
+  <li>Öğretmenlere Yönelik Temel Bilgiler — Canva (Eki 2025)</li>
+  <li>Adobe Photoshop CC 2023 — BTK Akademi (Nis 2023)</li>
+</ul>
+</details>
+
+<details>
+<summary>📌 Diğer</summary>
+<ul>
+  <li>Bilgisayar İşletmenliği — T.C. Millî Eğitim Bakanlığı (Haz 2024)</li>
+  <li>Pedagojik Formasyon — Düzce Üniversitesi (Haz 2019)</li>
+</ul>
+</details>
+
+</div>
+<br>
+</details>
+</td>
+</tr>
+</table>
+
+</div>
 
 </td>
 </tr>
