@@ -3,31 +3,32 @@ name: Profil Sayacı Güncelleyici
 on:
   schedule:
     - cron: '0 */3 * * *' # Her 3 saatte bir otomatik güncellenir
-  workflow_dispatch: # İstediğiniz an manuel çalıştırmak için
+  workflow_dispatch: # Manuel tetikleme için
 
 jobs:
   update-views:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # 🔴 Exit Code 128 hatasını çözen yazma izni
+    
     steps:
       - name: Depoyu Klonla
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # ⚠️ Node.js uyarısını çözen güncel sürüm
 
       - name: Sayacı Güncelle
         run: |
-          # Bu kısım GitHub API kullanarak profil trafiğini çeker
+          # GitHub API kullanarak profil trafiğini çeker
           VIEWS=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
             https://api.github.com/repos/${{ github.repository }}/traffic/views \
             | grep '"count":' | head -n 1 | awk '{print $2}' | sed 's/,//')
           
-          # Eğer trafik henüz oluşmadıysa veya 0 ise varsayılan değer atar
           if [ -z "$VIEWS" ] || [ "$VIEWS" -eq 0 ]; then VIEWS="1"; fi
           
-          # Markdown dosyasındaki etiketlerin arasını günceller
           TEXT="👁️ **Profil Görüntülenme Sayısı:** $VIEWS"
           sed -i "/<!-- PROFILE_VIEWS_START -->/,/<!-- PROFILE_VIEWS_END -->/c\<!-- PROFILE_VIEWS_START -->\n$TEXT\n<!-- PROFILE_VIEWS_END -->" README.md
 
       - name: Değişiklikleri Commit Et
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git diff --quiet && git diff --staged --quiet || (git add README.md && git commit -m "Ziyaretçi sayısı güncellendi" && git push)
