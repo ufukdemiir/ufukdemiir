@@ -35,12 +35,16 @@ Deneysel markalaşma, sosyal medya pazarlaması ve yönetim stratejilerini test 
 
 `Sosyal Medya` `SMO` `İçerik` `Marka Geliştirme`
 
+<hr>
+
 ### SINGULARITY
 *Hackathon Projesi · May 2026*
 
 Gemini 2.5 Flash ve n8n entegrasyonuyla dağınık verileri otonom işleyen Sıfır Arayüz tabanlı organizasyon asistanı.
 
 `Proje Yönetimi` `Ekip Çalışması` `Tasarım` `NC/LC`
+
+<hr>
 
 ### MAILMIND AI
 *P2P Projesi · Nis 2026*
@@ -49,12 +53,16 @@ n8n ve Gemini 2.5 Flash ile e-posta trafiğini kategorize edip taslak yanıtlar 
 
 `Proje Yönetimi` `Ekip Çalışması` `Tasarım` `NC/LC`
 
+<hr>
+
 ### AQUA-SMART
 *Ideathon Projesi · Şub–Mar 2026*
 
 Görüntü işleme ile atıksu arıtma maliyetlerini %30 azaltan sürdürülebilirlik projesi.
 
 `Proje Yönetimi` `Ekip Çalışması` `Tasarım` `NC/LC`
+
+<hr>
 
 </details>
 
@@ -79,6 +87,7 @@ Görüntü işleme ile atıksu arıtma maliyetlerini %30 azaltan sürdürülebil
 <details>
 <summary><strong>Sertifikalar</strong></summary>
 
+<div align="left">
 <details>
 <summary>Dijital Pazarlama & İçerik</summary>
 
@@ -168,6 +177,7 @@ Görüntü işleme ile atıksu arıtma maliyetlerini %30 azaltan sürdürülebil
 - Bilgisayar İşletmenliği — T.C. Millî Eğitim Bakanlığı (Haz 2024)
 - Pedagojik Formasyon — Düzce Üniversitesi (Haz 2019)
 </details>
+</div>
 
 </details>
 
