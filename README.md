@@ -187,9 +187,6 @@ Görüntü işleme ile atıksu arıtma maliyetlerini %30 azaltan sürdürülebil
 
 <div align="center">
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=ufukdemiir&color=0A66C2&style=flat-square&label=Profil%20Görüntülenme%20Sayısı" alt="Ziyaretçi Sayısı">
-
-<br><br>
-<sub>Son güncelleme: Temmuz 2026</sub>
+<sub>Son güncelleme: Temmuz 2026</sub><br><br>
+<img src="https://komarev.com/ghpvc/?username=ufukdemiir&color=0A66C2&style=flat-square&label=Toplam%20Görüntülenme%20Sayısı" alt="Ziyaretçi Sayısı">
 </div>
