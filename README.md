@@ -13,7 +13,7 @@
 
 <table align="center">
 <tr>
-<td align="center">
+<td align="center" valign="top">
 
 <details>
 <summary><strong>Hakkımda</strong></summary>
@@ -23,7 +23,7 @@ Türk Dili ve Edebiyatı geçmişimi dijital araçlarla birleştirerek içerik �
 </details>
 
 </td>
-<td align="center">
+<td align="center" valign="top">
 
 <details>
 <summary><strong>Projeler</strong></summary>
@@ -67,7 +67,7 @@ Görüntü işleme ile atıksu arıtma maliyetlerini %30 azaltan sürdürülebil
 </details>
 
 </td>
-<td align="center">
+<td align="center" valign="top">
 
 <details>
 <summary><strong>Repo'lar</strong></summary>
@@ -82,7 +82,7 @@ Görüntü işleme ile atıksu arıtma maliyetlerini %30 azaltan sürdürülebil
 </details>
 
 </td>
-<td align="center">
+<td align="center" valign="top">
 
 <details>
 <summary><strong>Sertifikalar</strong></summary>
@@ -188,19 +188,7 @@ Görüntü işleme ile atıksu arıtma maliyetlerini %30 azaltan sürdürülebil
 <div align="center">
 <br>
 
-<!-- PROFILE_VIEWS_START -->
-👁️ **Profil Görüntülenme Sayısı:** 1
-<!-- PROFILE_VIEWS_END -->
-
-<br>
-<sub>Son güncelleme: Temmuz 2026</sub>
-</div>
-
-
-<div align="center">
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ufukdemiir&color=0A66C2&style=flat-square&label=Profil%20Görüntülenmesi" alt="Ziyaretçi Sayısı">
+<img src="https://komarev.com/ghpvc/?username=ufukdemiir&color=0A66C2&style=flat-square&label=Profil%20Görüntülenme%20Sayısı" alt="Ziyaretçi Sayısı">
 
 <br><br>
 <sub>Son güncelleme: Temmuz 2026</sub>
