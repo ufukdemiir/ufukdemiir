@@ -8,18 +8,13 @@ Türk Dili ve Edebiyatı · No-Code & Low-Code · Dijital Pazarlama · İçerik 
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat)](https://tr.pinterest.com/demiirufuk/)
 
 </div>
-
-<br>
-
 <details>
-<summary><h2>Hakkımda</h2></summary>
+<summary><strong>Hakkımda</strong></summary>
 
 Türk Dili ve Edebiyatı geçmişimi dijital araçlarla birleştirerek içerik üretimi, marka geliştirme ve no-code çözümler üzerine çalışıyorum. Dijital pazarlama, yapay zeka destekli otomasyon ve deneysel marka projeleri ilgi alanlarım arasında.
-
 </details>
-
 <details>
-<summary><h2>Projeler</h2></summary>
+<summary><strong>Projeler</strong></summary>
 
 ### The Bezirgân
 [Pinterest'te görüntüle →](https://tr.pinterest.com/thebezirgan/)
@@ -28,16 +23,12 @@ Deneysel markalaşma, sosyal medya pazarlaması ve yönetim stratejilerini test 
 
 `Sosyal Medya` `SMO` `İçerik` `Marka Geliştirme`
 
-<br>
-
 ### SINGULARITY
 *Hackathon Projesi · Yapay Zeka ve Teknoloji Akademisi · May 2026*
 
 Dijital fragmentasyonun yarattığı zihinsel yükü ortadan kaldıran "Sıfır Arayüz" tabanlı bir organizasyon asistanı. Gemini 2.5 Flash ve n8n entegrasyonuyla dağınık verileri takvim, not ve görev listelerine otonom işleyerek verimliliği %40 artırıyor.
 
 `Proje Yönetimi` `Ekip Çalışması` `Tasarım` `NC/LC`
-
-<br>
 
 ### MAILMIND AI
 *P2P Projesi · Yapay Zeka ve Teknoloji Akademisi · Nis 2026*
@@ -46,19 +37,15 @@ Manuel e-posta yönetiminin yarattığı zaman kaybını ortadan kaldıran akıl
 
 `Proje Yönetimi` `Ekip Çalışması` `Tasarım` `NC/LC`
 
-<br>
-
 ### AQUA-SMART
 *Ideathon Projesi · Yapay Zeka ve Teknoloji Akademisi · Şub–Mar 2026*
 
 Mevcut kameraları görüntü işleme ile yazılımsal sensörlere dönüştürerek atıksu arıtma maliyetlerini ve enerji tüketimini %30 azaltan bir proje.
 
 `Proje Yönetimi` `Ekip Çalışması` `Tasarım` `NC/LC`
-
 </details>
-
 <details>
-<summary><h2>Repo'lar</h2></summary>
+<summary><strong>Repo'lar</strong></summary>
 
 ### Çalakalem
 [GitHub'da görüntüle →](https://github.com/ufukdemiir/Calakalem)
@@ -66,12 +53,9 @@ Mevcut kameraları görüntü işleme ile yazılımsal sensörlere dönüştüre
 *"Burası; yazı kabiliyetimi geliştirmek ve özgürce karalayabilmek için oynadığım dijital bir kum havuzu, sözcüklerin fütursuzca arz-ı endam ettiği bir eskiz defteri."*
 
 `Yazarlık` `Yaratıcı Yazarlık` `Kişisel Gelişim`
-
 </details>
-
 <details>
-<summary><h2>Sertifikalar</h2></summary>
-
+<summary><strong>Sertifikalar</strong></summary>
 <details>
 <summary><strong>Dijital Pazarlama & İçerik</strong></summary>
 
@@ -80,9 +64,7 @@ Mevcut kameraları görüntü işleme ile yazılımsal sensörlere dönüştüre
 - Content Marketing Principles for Business — Semrush (Eki 2025)
 - The Ultimate Guide to Launching a Profitable Small Business — Semrush (Eki 2025)
 - Google Dijital Pazarlama Temelleri — BTK Akademi (Eki 2025)
-
 </details>
-
 <details>
 <summary><strong>Yapay Zeka & Programlama</strong></summary>
 
@@ -99,9 +81,7 @@ Mevcut kameraları görüntü işleme ile yazılımsal sensörlere dönüştüre
 - Yapay Zekaya Giriş — BTK Akademi (Haz 2024)
 - Çocuklar İçin Yapay Zeka — BTK Akademi (Tem 2024)
 - Bilgi Teknolojilerine Giriş — BTK Akademi (Mar 2021)
-
 </details>
-
 <details>
 <summary><strong>Proje & Risk Yönetimi</strong></summary>
 
@@ -110,9 +90,7 @@ Mevcut kameraları görüntü işleme ile yazılımsal sensörlere dönüştüre
 - Proje Yönetim Temelleri — BTK Akademi (Ağu 2025)
 - Proje ve Risk Yönetimi — BTK Akademi (Ağu 2025)
 - Ekip Kurma ve Yönetme — BTK Akademi (Ağu 2025)
-
 </details>
-
 <details>
 <summary><strong>Veri Analizi & Excel</strong></summary>
 
@@ -121,9 +99,7 @@ Mevcut kameraları görüntü işleme ile yazılımsal sensörlere dönüştüre
 - Microsoft Excel Temelleri — BTK Akademi (Eyl 2025)
 - Veri Bilimine Giriş — BTK Akademi (Eyl 2025)
 - Veri Bilimi için Temel İstatistik — BTK Akademi (Ağu 2025)
-
 </details>
-
 <details>
 <summary><strong>Girişimcilik & İş Dünyası</strong></summary>
 
@@ -135,9 +111,7 @@ Mevcut kameraları görüntü işleme ile yazılımsal sensörlere dönüştüre
 - Girişimcilik Eğitimi (Geleneksel ve İleri Girişimcilik) — KOSGEB (Eki 2025)
 - Tasarımların Korunması — BTK Akademi (Şub 2025)
 - Finansal Okuryazarlık Sertifikası — Sermaye Piyasası Lisanslama Sicil ve Eğitim Kuruluşu A.Ş. (Eki 2025)
-
 </details>
-
 <details>
 <summary><strong>İletişim & Kişisel Gelişim</strong></summary>
 
@@ -149,9 +123,7 @@ Mevcut kameraları görüntü işleme ile yazılımsal sensörlere dönüştüre
 - İletişim ve Network Yönetimi — BTK Akademi (Tem 2024)
 - İkna Becerileri — BTK Akademi
 - Etkili İletişim Stratejileri — BTK Akademi (Tem 2024)
-
 </details>
-
 <details>
 <summary><strong>Tasarım</strong></summary>
 
@@ -159,21 +131,14 @@ Mevcut kameraları görüntü işleme ile yazılımsal sensörlere dönüştüre
 - Canva'nın Görsel Çalışma Seti ile Tanışın — Canva (Mar 2026)
 - Öğretmenlere Yönelik Temel Bilgiler — Canva (Eki 2025)
 - Adobe Photoshop CC 2023 — BTK Akademi (Nis 2023)
-
 </details>
-
 <details>
 <summary><strong>Diğer</strong></summary>
 
 - Bilgisayar İşletmenliği — T.C. Millî Eğitim Bakanlığı (Haz 2024)
 - Pedagojik Formasyon — Düzce Üniversitesi (Haz 2019)
-
 </details>
-
 </details>
-
-<br>
-
 <div align="center">
 <sub>Son güncelleme: Temmuz 2026</sub>
 </div>
