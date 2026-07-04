@@ -10,42 +10,57 @@
 ---
 
 </div>
+
+<table align="center">
+<tr>
+<td align="center">
+
 <details>
 <summary><strong>Hakkımda</strong></summary>
 
 Türk Dili ve Edebiyatı geçmişimi dijital araçlarla birleştirerek içerik üretimi, marka geliştirme ve no-code çözümler üzerine çalışıyorum. Dijital pazarlama, yapay zeka destekli otomasyon ve deneysel marka projeleri ilgi alanlarım arasında.
+
 </details>
+
+</td>
+<td align="center">
+
 <details>
 <summary><strong>Projeler</strong></summary>
 
 ### The Bezirgân
 [Pinterest'te görüntüle →](https://tr.pinterest.com/thebezirgan/)
 
-Deneysel markalaşma, sosyal medya pazarlaması ve yönetim stratejilerini test eden bir laboratuvar projesi. Görsel estetik, dil tonu ve içerik formatları A/B testleriyle optimize edildi; organik erişim uzun kuyruk SEO stratejileriyle maksimize edildi.
+Deneysel markalaşma, sosyal medya pazarlaması ve yönetim stratejilerini test eden bir laboratuvar projesi.
 
 `Sosyal Medya` `SMO` `İçerik` `Marka Geliştirme`
 
 ### SINGULARITY
-*Hackathon Projesi · Yapay Zeka ve Teknoloji Akademisi · May 2026*
+*Hackathon Projesi · May 2026*
 
-Dijital fragmentasyonun yarattığı zihinsel yükü ortadan kaldıran "Sıfır Arayüz" tabanlı bir organizasyon asistanı. Gemini 2.5 Flash ve n8n entegrasyonuyla dağınık verileri takvim, not ve görev listelerine otonom işleyerek verimliliği %40 artırıyor.
+Gemini 2.5 Flash ve n8n entegrasyonuyla dağınık verileri otonom işleyen Sıfır Arayüz tabanlı organizasyon asistanı.
 
 `Proje Yönetimi` `Ekip Çalışması` `Tasarım` `NC/LC`
 
 ### MAILMIND AI
-*P2P Projesi · Yapay Zeka ve Teknoloji Akademisi · Nis 2026*
+*P2P Projesi · Nis 2026*
 
-Manuel e-posta yönetiminin yarattığı zaman kaybını ortadan kaldıran akıllı bir e-posta yönetim paneli. n8n ve Gemini 2.5 Flash ile e-posta trafiğini kategorize edip niyete uygun taslak yanıtlar üretiyor.
+n8n ve Gemini 2.5 Flash ile e-posta trafiğini kategorize edip taslak yanıtlar üreten akıllı panel.
 
 `Proje Yönetimi` `Ekip Çalışması` `Tasarım` `NC/LC`
 
 ### AQUA-SMART
-*Ideathon Projesi · Yapay Zeka ve Teknoloji Akademisi · Şub–Mar 2026*
+*Ideathon Projesi · Şub–Mar 2026*
 
-Mevcut kameraları görüntü işleme ile yazılımsal sensörlere dönüştürerek atıksu arıtma maliyetlerini ve enerji tüketimini %30 azaltan bir proje.
+Görüntü işleme ile atıksu arıtma maliyetlerini %30 azaltan sürdürülebilirlik projesi.
 
 `Proje Yönetimi` `Ekip Çalışması` `Tasarım` `NC/LC`
+
 </details>
+
+</td>
+<td align="center">
+
 <details>
 <summary><strong>Repo'lar</strong></summary>
 
@@ -55,11 +70,17 @@ Mevcut kameraları görüntü işleme ile yazılımsal sensörlere dönüştüre
 *"Burası; yazı kabiliyetimi geliştirmek ve özgürce karalayabilmek için oynadığım dijital bir kum havuzu, sözcüklerin fütursuzca arz-ı endam ettiği bir eskiz defteri."*
 
 `Yazarlık` `Yaratıcı Yazarlık` `Kişisel Gelişim`
+
 </details>
+
+</td>
+<td align="center">
+
 <details>
 <summary><strong>Sertifikalar</strong></summary>
+
 <details>
-<summary><strong>Dijital Pazarlama & İçerik</strong></summary>
+<summary>Dijital Pazarlama & İçerik</summary>
 
 - Fundamentals of Digital Marketing — Google Digital Academy (Haz 2026)
 - Advanced Content Marketing with Brian Dean — Semrush (Eki 2025)
@@ -67,8 +88,9 @@ Mevcut kameraları görüntü işleme ile yazılımsal sensörlere dönüştüre
 - The Ultimate Guide to Launching a Profitable Small Business — Semrush (Eki 2025)
 - Google Dijital Pazarlama Temelleri — BTK Akademi (Eki 2025)
 </details>
+
 <details>
-<summary><strong>Yapay Zeka & Programlama</strong></summary>
+<summary>Yapay Zeka & Programlama</summary>
 
 - Yapay Zeka Temelleri (AI Essentials) — Google (Nis 2026)
 - İstem Oluşturma Temelleri (Prompting Essentials) — Google (May 2026)
@@ -84,8 +106,9 @@ Mevcut kameraları görüntü işleme ile yazılımsal sensörlere dönüştüre
 - Çocuklar İçin Yapay Zeka — BTK Akademi (Tem 2024)
 - Bilgi Teknolojilerine Giriş — BTK Akademi (Mar 2021)
 </details>
+
 <details>
-<summary><strong>Proje & Risk Yönetimi</strong></summary>
+<summary>Proje & Risk Yönetimi</summary>
 
 - Proje Yönetimi (Project Management) — Google (May 2026)
 - Proje Yönetimi — BTK Akademi (Ağu 2025)
@@ -93,8 +116,9 @@ Mevcut kameraları görüntü işleme ile yazılımsal sensörlere dönüştüre
 - Proje ve Risk Yönetimi — BTK Akademi (Ağu 2025)
 - Ekip Kurma ve Yönetme — BTK Akademi (Ağu 2025)
 </details>
+
 <details>
-<summary><strong>Veri Analizi & Excel</strong></summary>
+<summary>Veri Analizi & Excel</summary>
 
 - Excel'de Dashboard ve İleri Fonksiyonlar — BTK Akademi (Eyl 2025)
 - Excel Pivot Tablolarla Veri Analizi — BTK Akademi (Eyl 2025)
@@ -102,8 +126,9 @@ Mevcut kameraları görüntü işleme ile yazılımsal sensörlere dönüştüre
 - Veri Bilimine Giriş — BTK Akademi (Eyl 2025)
 - Veri Bilimi için Temel İstatistik — BTK Akademi (Ağu 2025)
 </details>
+
 <details>
-<summary><strong>Girişimcilik & İş Dünyası</strong></summary>
+<summary>Girişimcilik & İş Dünyası</summary>
 
 - Girişimciler için İnsan Kaynakları — Yapay Zeka ve Teknoloji Akademisi (Şub 2026)
 - Girişimciler için Hukuk — Yapay Zeka ve Teknoloji Akademisi (Şub 2026)
@@ -114,8 +139,9 @@ Mevcut kameraları görüntü işleme ile yazılımsal sensörlere dönüştüre
 - Tasarımların Korunması — BTK Akademi (Şub 2025)
 - Finansal Okuryazarlık Sertifikası — Sermaye Piyasası Lisanslama Sicil ve Eğitim Kuruluşu A.Ş. (Eki 2025)
 </details>
+
 <details>
-<summary><strong>İletişim & Kişisel Gelişim</strong></summary>
+<summary>İletişim & Kişisel Gelişim</summary>
 
 - Topluluk Önünde Konuşma ve Etkili Sunum Teknikleri — BTK Akademi (Şub 2025)
 - Mülakat Teknikleri — BTK Akademi (Şub 2025)
@@ -126,21 +152,29 @@ Mevcut kameraları görüntü işleme ile yazılımsal sensörlere dönüştüre
 - İkna Becerileri — BTK Akademi
 - Etkili İletişim Stratejileri — BTK Akademi (Tem 2024)
 </details>
+
 <details>
-<summary><strong>Tasarım</strong></summary>
+<summary>Tasarım</summary>
 
 - İlgi Çekici İçerikler Oluşturun — Canva (Mar 2026)
 - Canva'nın Görsel Çalışma Seti ile Tanışın — Canva (Mar 2026)
 - Öğretmenlere Yönelik Temel Bilgiler — Canva (Eki 2025)
 - Adobe Photoshop CC 2023 — BTK Akademi (Nis 2023)
 </details>
+
 <details>
-<summary><strong>Diğer</strong></summary>
+<summary>Diğer</summary>
 
 - Bilgisayar İşletmenliği — T.C. Millî Eğitim Bakanlığı (Haz 2024)
 - Pedagojik Formasyon — Düzce Üniversitesi (Haz 2019)
 </details>
+
 </details>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 <sub>Son güncelleme: Temmuz 2026</sub>
 </div>
