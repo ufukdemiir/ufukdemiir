@@ -12,7 +12,8 @@
 
 ---
 
-<table align="center" style="border: none; border-collapse: collapse;">
+<center>
+<table style="border: none; border-collapse: collapse; display: inline-block;">
   <tr style="border: none;">
     <td align="center" style="border: none;">
       <sub>Son güncelleme: Temmuz 2026</sub>
@@ -21,5 +22,6 @@
     </td>
   </tr>
 </table>
+</center>
 
 </div>
