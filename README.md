@@ -189,6 +189,7 @@ Görüntü işleme ile atıksu arıtma maliyetlerini %30 azaltan sürdürülebil
 <br>
 
 <!-- PROFILE_VIEWS_START -->
+👁️ **Profil Görüntülenme Sayısı:** 1
 <!-- PROFILE_VIEWS_END -->
 
 <br>
