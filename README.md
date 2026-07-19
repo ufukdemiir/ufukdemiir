@@ -4,6 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/ufukdemiir)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat)](https://tr.pinterest.com/demiirufuk/)
+<br>
+[![ufukdemiir.github.io](https://img.shields.io/badge/ufukdemiir.github.io-111111?style=flat)](https://ufukdemiir.github.io/)
 
 *Türk Dili ve Edebiyatı geçmişimi dijital araçlarla birleştirerek içerik üretimi, marka geliştirme ve no-code/low-code çözümler üzerine çalışıyorum. Dijital pazarlama, yapay zeka destekli otomasyon ve deneysel marka projeleri ilgi alanlarım arasında.*
 
