@@ -1,22 +1,47 @@
 <div align="center">
 
+<table width="100%">
+<tr>
+<td align="center">
+
 # Ufuk Demir
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/ufukdemiir)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat)](https://tr.pinterest.com/demiirufuk/)
+<p align="center">
+  <em>Türk Dili ve Edebiyatı &nbsp;&bull;&nbsp; Dijital Pazarlama & İçerik &nbsp;&bull;&nbsp; No-Code & Low-Code</em>
+</p>
+
+<!-- İkonsuz, Saf Metinli Rounded Butonlar -->
+<p align="center">
+  <a href="https://ufukdemiir.github.io/"><img src="https://img.shields.io/badge/Web_Sitesi-24292E?style=for-the-badge" alt="Web Sitesi"></a>
+  <a href="https://www.linkedin.com/in/ufukdemiir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://tr.pinterest.com/demiirufuk/"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge" alt="Pinterest"></a>
+</p>
+
+<hr style="border: 0; height: 1px; background: #eaeaea; margin: 25px 0;">
+
+<p align="center" style="padding: 0 15px;">
+  Türk Dili ve Edebiyatı geçmişimi dijital araçlarla birleştirerek içerik üretimi, marka geliştirme ve no-code/low-code çözümler üzerine çalışıyorum. Dijital pazarlama, yapay zeka destekli otomasyon ve deneysel marka projeleri ilgi alanlarım arasında.
+</p>
+
 <br>
-[![ufukdemiir.github.io](https://img.shields.io/badge/ufukdemiir.github.io-111111?style=flat)](https://ufukdemiir.github.io/)
-
-*Türk Dili ve Edebiyatı geçmişimi dijital araçlarla birleştirerek içerik üretimi, marka geliştirme ve no-code/low-code çözümler üzerine çalışıyorum. Dijital pazarlama, yapay zeka destekli otomasyon ve deneysel marka projeleri ilgi alanlarım arasında.*
-
-`Türk Dili ve Edebiyatı` · `No-Code & Low-Code` · `Dijital Pazarlama` · `İçerik Üreticiliği & Dijital Yayıncılık`
-
----
 
 <p align="center">
-  <sub>Son güncelleme: Temmuz 2026</sub>
+  <code>Türk Dili ve Edebiyatı</code> &nbsp;✦&nbsp; 
+  <code>No-Code & Low-Code</code> &nbsp;✦&nbsp; 
+  <code>Dijital Pazarlama</code> &nbsp;✦&nbsp; 
+  <code>İçerik Üreticiliği & Dijital Yayıncılık</code>
+</p>
+
+<br>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<p align="center">
+  <sub>Son güncelleme: Eylül 2026</sub>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=ufukdemiir&color=0A66C2&style=flat-square&label=Toplam%20Görüntülenme%20Sayısı" alt="Ziyaretçi Sayısı">
 </p>
-
-</div>
