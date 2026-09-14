@@ -10,11 +10,11 @@
   <em>Türk Dili ve Edebiyatı &nbsp;&bull;&nbsp; Dijital Pazarlama & İçerik &nbsp;&bull;&nbsp; No-Code & Low-Code</em>
 </p>
 
-<!-- İkonsuz, Saf Metinli Rounded Butonlar -->
+<!-- İkonsuz, Saf Metinli Rounded Butonlar (Yeni Sekmede Açılacak Şekilde Düzenlendi) -->
 <p align="center">
-  <a href="https://ufukdemiir.github.io/"><img src="https://img.shields.io/badge/Web_Sitesi-24292E?style=for-the-badge" alt="Web Sitesi"></a>
-  <a href="https://www.linkedin.com/in/ufukdemiir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://tr.pinterest.com/demiirufuk/"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge" alt="Pinterest"></a>
+  <a href="https://ufukdemiir.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Web_Sitesi-24292E?style=for-the-badge" alt="Web Sitesi"></a>
+  <a href="https://www.linkedin.com/in/ufukdemiir" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://tr.pinterest.com/demiirufuk/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge" alt="Pinterest"></a>
 </p>
 
 <hr style="border: 0; height: 1px; background: #eaeaea; margin: 25px 0;">
